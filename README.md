@@ -3,11 +3,11 @@
 <img src="kurikin.jpg" width="200" align="right" alt="Profile Image">
 
 * 🎈   I love Neovim and Flutter.
-* 🧐   Interested in mobile app & backend. Recent focus on Flutter.
+* 🧐   Interested in mobile apps & backend. Recent focus on Flutter.
 * 🌱   Currently learning Go & Rust.
 * 🎓   Majoring in Computer Science at Yokohama National University.
 * 🗣️   English level: TOEIC 920 (L470 / R450)
-* ⛳   2022 Goal: Release a mobile app that will be used all over Japan.
+* ⛳   2022 Goal: Develop a mobile app that will be used all over Japan.
 
 
 ### Languages: 
@@ -26,12 +26,13 @@
 <br />
 
 ### Technologies & Tools: 
-<div style="display:flex; gap:25px;">
+<div style="display:flex; gap:25px; color:red">
   <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="left" alt="Vue.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="left" alt="Nuxt.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+
 <div />
 
 <br />
