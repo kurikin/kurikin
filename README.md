@@ -1,6 +1,6 @@
 ## Hey 👋, I'm kurikin
 
-<img src="kurikin.jpg" width="200" align="right" alt="Profile Image">
+<img src="kurikin.jpg" width="195" align="right" alt="Profile Image">
 
 * 🎈   I love Neovim and Flutter.
 * 🧐   Interested in mobile app & backend. Recent focus on Flutter.
