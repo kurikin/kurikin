@@ -5,7 +5,7 @@
 * 🎈   I love Neovim and Flutter.
 * 🧐   Interested in mobile app & backend. Recent focus on Flutter.
 * 🎓   Majoring in Computer Science at Yokohama National University.
-* 🌱   Currently learning Vue, Nuxt, Go.
+* 🌱   Currently learning Unity & Go.
 * 🗣️   English level: TOEIC 920 (L470 / R450)
 * ⛳   2022 Goal: Release a mobile app that will be used all over Japan.
 
