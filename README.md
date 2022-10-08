@@ -5,7 +5,7 @@
 * 🎈  Neovim (+ coc) user.  
 * 🌱  Currently learning Go & Rust.
 * 👀  Interested in mobile development with Flutter.   
-* 🎓  Majoring in Computer Science at YNU
+* 🎓  Majoring in Computer Science at YNU.
 
 ### Languages: 
 <div style="display:flex; gap:25px;">
