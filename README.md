@@ -2,9 +2,9 @@
 
 <img src="kurikin.jpeg" width="200" align="right" alt="Profile Image">
 
-🎈   Neovim user.  
-🌱   Interested in mobile development with Flutter.   
-🎓   Majoring in Computer Science at Yokohama National University.
+* 🎈  Neovim user.  
+* 🌱  Interested in mobile development with Flutter.   
+* 🎓  Majoring in Computer Science at Yokohama National University.
 
 ### Languages: 
 <div style="display:flex; gap:25px;">
