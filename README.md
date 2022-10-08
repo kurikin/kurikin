@@ -3,7 +3,8 @@
 <img src="kurikin.jpeg" width="200" align="right" alt="Profile Image">
 
 * 🎈  Neovim (+ coc) user.  
-* 🌱  Interested in mobile development with Flutter.   
+* 🌱  Currently learning Go & Rust.
+* 👀  Interested in mobile development with Flutter.   
 * 🎓  Majoring in Computer Science at Yokohama National University.
 
 ### Languages: 
