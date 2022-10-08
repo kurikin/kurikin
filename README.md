@@ -2,12 +2,9 @@
 
 <img src="kurikin.jpeg" width="200" align="right" alt="Profile Image">
 
-* 🎈   I love Neovim and Flutter.
-* 🧐   Interested in mobile apps & backend. Recent focus on Flutter.
-* 🌱   Currently learning Go & Rust.
+* 🎈   Neovim user.
+* 🌱   Interested in mobile apps. Recent focus on Flutter.
 * 🎓   Majoring in Computer Science at Yokohama National University.
-* ⛳   2022 Goal: Develop a mobile app that will be used all over Japan.
-
 
 ### Languages: 
 <div style="display:flex; gap:25px;">
