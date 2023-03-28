@@ -2,7 +2,7 @@
 
 <img src="kurikin.jpeg" width="200" align="right" alt="Profile Image">
 
-* 🎈  Neovim (+ coc) user.  
+* 🎈  Vimmer & Gopher 
 * 👀  Interested in mobile development with Flutter.   
 * 🎓  Majoring in Computer Science at YNU.
 
