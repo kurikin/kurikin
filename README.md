@@ -3,6 +3,7 @@
 <img src="kurikin.jpeg" width="200" align="right" alt="Profile Image">
 
 * 🎈  Vimmer & Gopher 
+* 🌱  Currently learning k8s.
 * 👀  Interested in mobile development with Flutter.   
 * 🎓  Majoring in Computer Science at YNU.
 
