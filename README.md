@@ -35,7 +35,7 @@
 <br />
 
 ### Current works:
-* ucf2022 (private) : Official website of school festival. (https://ucf2022.com)
+* [ucf2022](https://github.com/kurikin/ucf2022) : Official website of school festival. (https://ucf2022.com)
   <br />
   ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-34485a.svg?style=flat-square&logo=nuxtdotjs)
   ![TypeScript](https://img.shields.io/badge/TypeScript-34485a.svg?style=flat-square&logo=typescript)
