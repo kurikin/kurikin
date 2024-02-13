@@ -1,5 +1,8 @@
 ## Hello there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoyahiroe&langs_count=10&layout=pie&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img src="kurikin.jpeg" width="200" align="right" alt="Profile Image">
 
 * 🎈  Vimmer & Gopher 
